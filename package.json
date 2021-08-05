@@ -1,14 +1,31 @@
 {
   "name": "dodopool",
-  "displayName": "dodopool",
-  "description": "A Simple and clean Dark VSCode theme inspired by DC Characterdodopool DeadPool ",
-  "version": "0.0.1",
+  "displayName": "DodoPool",
+  "description": "A Simple and clean Dark VSCode theme inspired by DC character DeadPool ",
+  "version": "0.0.3",
+  "author": {
+    "name": "Mukesh Joshi",
+    "email": "admin@iammukesh.com",
+    "url": "https://iammukesh.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orangepreneur/dodopool.git"
+  },
   "publisher": "MukeshJoshi",
   "engines": {
     "vscode": "^1.58.0"
   },
+  "icon": "icon.jpg",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "DC",
+    "Red",
+    "Dark",
+    "DeadPool",
+    "Mukesh Joshi"
   ],
   "contributes": {
     "themes": [
