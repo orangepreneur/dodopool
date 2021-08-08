@@ -9,12 +9,12 @@ I was looking for a read and black combination theme for VSCode for a really lon
 It may not be perfect so please bear with me I will be updating it time to time.
 
 Colors I used to make this theme:
-#60262C
-#962333
-#A32633
-#343339
-#20252C
-#13171B
+60262C
+962333
+A32633
+343339
+20252C
+13171B
 
 [Email](mailto:admin@iammukesh.com)
 [Instagram](https://instagram.com/orangepreneur)
